@@ -4,7 +4,7 @@
 * [About](about.md)
 * [API reference](api-reference/README.md)
   * [Pet](api-reference/pet/README.md)
-    * [UploadImage](api-reference/pet/uploadimage.md)
+    * [UploadImage44444444](api-reference/pet/uploadimage44444444.md)
     * [FindByStatus](api-reference/pet/findbystatus.md)
     * [FindByTags](api-reference/pet/findbytags.md)
   * [User](api-reference/user/README.md)
