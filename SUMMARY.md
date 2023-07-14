@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Page](README.md)
+* [About](about.md)
+* [API reference](api-reference/README.md)
+  * [Pet](api-reference/pet/README.md)
+    * [UploadImage](api-reference/pet/uploadimage.md)
+    * [FindByStatus](api-reference/pet/findbystatus.md)
+    * [FindByTags](api-reference/pet/findbytags.md)
+  * [User](api-reference/user/README.md)
+    * [CreateWithArray](api-reference/user/createwitharray.md)
+    * [CreateWithList](api-reference/user/createwithlist.md)
+    * [Login](api-reference/user/login.md)
+    * [Logout](api-reference/user/logout.md)
+  * [Store](api-reference/store/README.md)
+    * [Order](api-reference/store/order.md)
+    * [Inventory](api-reference/store/inventory.md)
+* [Specification](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5oqRUh5IInHytYHtAARG%2Fimports%2FIK3VMx3D1yE0x8E1GT19%2Fswagger%20\(1\).json?alt=media\&token=8d122725-f2f1-4119-840d-ac3676bc0eca)
